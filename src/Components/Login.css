@@ -1,0 +1,21 @@
+@media only screen and (max-width: 575px) {
+    .loginPage{
+      display: block;
+      background-color: antiquewhite;
+      width: 100%;
+      padding: 20px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    }
+    
+    @media only screen and (max-width: 900px) {
+      .loginPage{
+        display: block;
+        background-color: antiquewhite;
+        width: 300px;
+        padding: 30px;
+        box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        border-radius: 10px;
+      }
+    }

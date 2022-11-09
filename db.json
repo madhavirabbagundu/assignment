@@ -1,0 +1,105 @@
+{
+    "Movies":[
+        {
+            "id":1,
+            "image":"https://images.indianexpress.com/2022/05/don-siva.jpg",
+            "title":"Assasin's Creed",
+            "name":"Play now",
+            "info":"Assassin's Creed is an open-world action-adventure stealth video game franchise published by developed mainly by its studio Ubisoft Montreal using the game engine Anvil and its more advanced derivatives.Created by Patrice Désilets, Jade Raymond, and Corey May, the Assassin's Creed series depicts a fictional Created by Patrice Désilets, Jade Raymond, and Corey May, the Assassin's Creed series depicts a fictional   Created by Patrice Désilets, Jade Raymond, and Corey May, the Assassin's Creed series depicts a fictional "
+           
+        },
+        {
+            "id":2,
+            "image":"https://images.hindustantimes.com/img/2022/10/21/1600x900/Prince_movie_review_1666363683385_1666363697174_1666363697174.jpg",
+            "title":"Prince",
+            "name":"Play now",
+            "info":"The series' eponymous first title was released in 2007, and it has featured twelve main games in total, the most recent being 2020's Valhalla. Main games in the Assassin's Creed series are set in an open world and played from the third-person perspective. Gameplay revolves around combat, stealth, and exploration, including the use of parkour to navigate the environment. The games feature both main and side missions, and some titles also include competitive and cooperative multiplayer game modes."
+        },
+        {
+            "id":3,
+            "image":"https://i.ytimg.com/vi/oy31--mCjO4/maxresdefault.jpg",
+            "title":"Don",
+            "name":"Play now",
+             "info":"A new story and occasionally new time periods are introduced in each entry, with the gameplay elements also evolving. There are three overarching story arcs in the series. The first five main games follow Desmond Miles, a descendant of several important Assassins throughout history, who uses a machine called the Animus to relive his ancestors' memories and find powerful artifacts called Pieces of Eden while also attempting to prevent a catastrophic event said to wipe out humanity by the end of 2012. From Assassin's Creed IV: Black Flag to Assassin's Creed Syndicate, Assassin initiates and employees of Abstergo (a company used as a front by the modern-day Templars) record genetic memories using the Helix software, helping the Templars and Assassins find new Pieces of Eden in the modern world. The most recent games, Assassin's Creed Origins, Assassin's Creed Odyssey, and Assassin's Creed Valhalla, follow ex-Abstergo employee Layla Hassan on her own quest to save humanity from another disaster."
+        },
+        {
+            "id":4,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7635/1307635-h-2954983323ae",
+            "title":"phyniex",
+            "name":"Play now",
+            "info":"In 2022, Ubisoft announced several additional games for the series. Assassin's Creed Infinity has been described as a new design philosophy for the series[1] and a hub that will provide the releases of future Assassin Creed games.[9] The first two games to be included in Infinity will be Assassin's Creed: Red, set in Feudal Japan,["
+        },
+        {
+            "id":5,
+            "image":"https://images.livemint.com/img/2022/06/01/1600x900/Screenshot__1654058741989_1654058767055.png",
+            "title":"Bahubali",
+            "name":"Play now",
+            "info":"Development of Assassin's Creed Unity began shortly after the completion of Brotherhood in 2010,[7] with the core development team splitting off during the early stages of development on Assassin's Creed III.[8] As the first game in the series to be released exclusively for the eighth generation of video game consoles, Unity featured a graphical and gameplay overhaul. The setting chosen for the game was Paris during the early years of the French Revolution, with players taking control of a new Assassin named Arno Dorian.[7][8] After Unity, Ubisoft released Assassin's Creed Syndicate in 2015."
+        },
+        {
+            "id":6,
+            "image":"https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2014/03/learn-english-movies-modern-american-classics.jpg",
+            "title":"RRR",
+            "name":"Play now",
+            "info":"Assassin's Creed III originated from both Ubisoft Montreal, who wanted to progress the series' narrative forward in time, and to an unattached project that had been developed at Ubisoft Singapore and featured naval ship combat. As the main team had settled into the American Revolution period for the game, they found the ship-to-ship combat system fitted with the story and redesigned the setting to incorporate it further. Another major change in Assassin's Creed III was transitioning the parkour and freerun systems to work in the natural woodlands of 18th-century Massachusetts and New York."
+        },
+        {
+            "id":7,
+            "image":"https://assets.gqindia.com/photos/60defab2f957deba6aa1e896/master/pass/Godzilla%20vs%20Kong.jpg",
+            "title":"Gladiators",
+            "name":"Play now",
+            "info":"After Assassin's Creed was released in 2007, Ubisoft Montreal looked to rework the global structure in developing the sequel, Assassin's Creed II. They felt that parkour was underutilized in the first game and designed the world in the sequel to feature freerun highways to make it easier to enter into parkour moves, for example using rooftops to escape pursuits.[6] The change in setting meant that the game would feature a new protagonist, Ezio Auditore da Firenze. "
+        },
+        {
+            "id":8,
+            "image":"https://images.herzindagi.info/image/2021/Dec/top-english-movies-of-2021_g.jpg",
+            "title":"Warriors",
+            "name":"Play now",
+            "info":"The first Assassin's Creed game originated out of ideas for a sequel for Ubisoft's video game Prince of Persia: The Sands of Time, aiming for the seventh generation of video game consoles. The Ubisoft Montreal team decided to take the gameplay from The Sands of Time into an open world approach, taking advantage of the improved processing power to render larger spaces and crowds. Narratively, the team wanted to move away from the Prince being someone next in line for the throne but to have to work for it; combined with research into secret societies led them to focus on the Assassins, based upon the historical Hashashin sect of Ismaili Shia Islam, heavily borrowing from the novel Alamut"
+        },
+        {
+            "id":9,
+            "image":"https://i.ytimg.com/vi/UBsOaqqLhXY/maxresdefault.jpg",
+            "title":"Avengers",
+            "name":"Play now",
+             "info":"While the games in the series have had several narrative arcs, Ubisoft views the series as currently having three periods of development and design philosophy. Phase one, covering up to Assassin's Creed Syndicate, featured games structured around single-player content, and while centering on open world spaces and several role-playing elements, were more action-adventure and stealth-oriented. Period two, covering from Assassin's Creed Origins to Assassin's Creed Mirage, brought in more role-playing elements and live-service features to increase player engagement."
+        }
+    ],
+    "images":[
+        {
+            "img": 
+                "https://i.ytimg.com/vi/UBsOaqqLhXY/maxresdefault.jpg"
+  
+            
+        },
+        {
+        "img": "https://i.ytimg.com/vi/UBsOaqqLhXY/maxresdefault.jpg"
+        },
+        {
+            "img":"https://static-koimoi.akamaized.net/wp-content/new-galleries/2020/11/adipurush002.jpg"
+        },
+        {
+            "img":"https://www.filmibeat.com/img/226x100x283/popcorn/movie_posters/bullettrain-20220602121535-21030.jpg"
+        },
+        {
+            "img":"https://i.ytimg.com/vi/XdBQ1Fs95-Q/maxresdefault.jpg"
+        },
+        {
+            "img":"https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/250/-/0/72/15/8c92e160069611ec9b32dd3b9e941ac7_1630420127210_p_medium.jpg"
+        },
+        {
+            "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/index1-5-1652459263.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*"
+        },
+        {
+            "img":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:q-80/et00342025-shnasdmajr-portrait.jpg"
+        },
+        {
+            "img":"https://i.ytimg.com/vi/XdBQ1Fs95-Q/maxresdefault.jpg"
+        },
+        {
+            "img":"https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/250/-/0/72/15/8c92e160069611ec9b32dd3b9e941ac7_1630420127210_p_medium.jpg"
+        }
+        
+    ]
+}
+
