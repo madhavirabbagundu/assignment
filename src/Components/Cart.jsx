@@ -11,7 +11,7 @@ const Cart = ()=>{
 
 console.log(Result)
     React.useEffect(()=>{
-        fetch(`http://localhost:3000/movies/${itemId}`)
+        fetch(`https://newmoviess.herokuapp.com/Movies/${itemId}`)
         .then((res)=>res.json())
         .then((json)=>{
             setResult(json)
@@ -19,7 +19,7 @@ console.log(Result)
     },[itemId])
 
     React.useEffect(()=>{
-        fetch(`http://localhost:3000/images`)
+        fetch(`https://newmoviess.herokuapp.com/images`)
         .then((res)=>res.json())
         .then((json)=>{
             setData(json)

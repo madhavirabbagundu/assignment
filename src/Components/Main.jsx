@@ -8,13 +8,13 @@ const Main = ()=>{
     const [images1,setImages1] = React.useState([])
 
     React.useEffect(()=>{
-        fetch(`http://localhost:3000/movies`)
+        fetch(`https://newmoviess.herokuapp.com/Movies`)
         .then((res)=>res.json())
         .then((json)=>setData(json))
     },[])
 
     React.useEffect(()=>{
-        fetch(`http://localhost:3000/images`)
+        fetch(`https://newmoviess.herokuapp.com/images`)
         .then((res)=>res.json())
         .then((json)=>setImages1(json))
     },[])
