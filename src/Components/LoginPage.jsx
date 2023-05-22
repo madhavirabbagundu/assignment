@@ -28,7 +28,8 @@ const handleSubmit = (e)=>{
     }else{
         alert("Enter correct details")
     }
-    console.log(LoginData)
+    // console.log(LoginData)ass
+
 
 }
 const {email,password} = LoginData
